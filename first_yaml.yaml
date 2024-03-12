@@ -1,0 +1,26 @@
+# Hey this is a YAML
+my-course: "AWS DevOps certification"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2024-04-23
+pre_enroll: null
+category: 
+ - AWS
+ - DevOps
+ - AWS certificate
+
+course_dev: ["murthy", "Dkavya"]
+dev_details: 
+ - name: "Murthy"
+   email: murthy@mlops.in
+   role: "author"
+ - name: "Kavya"
+   emai: "kavya@mlops.in"
+   role: "Developer"
+
+detailed_description: |
+ This course has been designed to 
+ help the beginners learn the 
+ basics of MLOps and augment their
+ knowledge to advanced level.
